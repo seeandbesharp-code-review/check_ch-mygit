@@ -1,0 +1,8 @@
+wwwroot\home.html
+wwwroot\Update.js
+wwwroot\UpdateDetails.html
+wwwroot\home.js
+E:\יד\API\MyWebApi\MyWebApi\wwwroot\home.html
+E:\יד\API\MyWebApi\MyWebApi\wwwroot\Update.js
+E:\יד\API\MyWebApi\MyWebApi\wwwroot\UpdateDetails.html
+E:\יד\API\MyWebApi\MyWebApi\wwwroot\home.js

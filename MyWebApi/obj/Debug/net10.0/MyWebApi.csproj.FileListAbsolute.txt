@@ -1,0 +1,128 @@
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\appsettings.Development.json
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\appsettings.json
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.staticwebassets.endpoints.json
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.exe
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.deps.json
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.runtimeconfig.json
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.dll
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.pdb
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.AssemblyInfoInputs.cache
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.AssemblyInfo.cs
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.csproj.CoreCompileInputs.cache
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\scopedcss\bundle\MyWebApi.styles.css
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.dll
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\refint\MyWebApi.dll
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.pdb
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.genruntimeconfig.cache
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\ref\MyWebApi.dll
+E:\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.staticwebassets.runtime.json
+E:\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\makr6zempj-{0}-5t4pr1goh0-5t4pr1goh0.gz
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\appsettings.Development.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\appsettings.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.staticwebassets.runtime.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.staticwebassets.endpoints.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.exe
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.deps.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.runtimeconfig.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.dll
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.pdb
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.AssemblyInfoInputs.cache
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.AssemblyInfo.cs
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.csproj.CoreCompileInputs.cache
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\scopedcss\bundle\MyWebApi.styles.css
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.dll
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\refint\MyWebApi.dll
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.pdb
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.genruntimeconfig.cache
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\ref\MyWebApi.dll
+E:\שנה ב\WebAPI\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\makr6zempj-{0}-huuixnr1gg-huuixnr1gg.gz
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\appsettings.Development.json
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\appsettings.json
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.staticwebassets.runtime.json
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.staticwebassets.endpoints.json
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.exe
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.deps.json
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.runtimeconfig.json
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.dll
+E:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.pdb
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.AssemblyInfoInputs.cache
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.AssemblyInfo.cs
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.csproj.CoreCompileInputs.cache
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\scopedcss\bundle\MyWebApi.styles.css
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.dll
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\refint\MyWebApi.dll
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.pdb
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.genruntimeconfig.cache
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\ref\MyWebApi.dll
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\appsettings.Development.json
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\appsettings.json
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.staticwebassets.runtime.json
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.staticwebassets.endpoints.json
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.exe
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.deps.json
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.runtimeconfig.json
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.dll
+F:\יד\API\MyWebApi\MyWebApi\bin\Debug\net10.0\MyWebApi.pdb
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.AssemblyInfoInputs.cache
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.AssemblyInfo.cs
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.csproj.CoreCompileInputs.cache
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\scopedcss\bundle\MyWebApi.styles.css
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.json
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.development.json
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\swae.build.ex.cache
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.dll
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\refint\MyWebApi.dll
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.pdb
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\MyWebApi.genruntimeconfig.cache
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\ref\MyWebApi.dll
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\makr6zempj-{0}-k9xncf3exd-k9xncf3exd.gz
+F:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\os6x9swu2h-{0}-d7ktrrnvw8-d7ktrrnvw8.gz
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\makr6zempj-{0}-s88ke9g5f1-s88ke9g5f1.gz
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\rtj83laxlg-{0}-v5ygdds9n9-v5ygdds9n9.gz
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\g8z7ygyxqy-{0}-h7eyv6wyi5-h7eyv6wyi5.gz
+E:\יד\API\MyWebApi\MyWebApi\obj\Debug\net10.0\compressed\os6x9swu2h-{0}-x5xgr6epbz-x5xgr6epbz.gz
