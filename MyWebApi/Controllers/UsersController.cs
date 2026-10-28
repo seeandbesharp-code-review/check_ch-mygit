@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.HttpLogging;
+﻿//fix: Removed "using Microsoft.AspNetCore.HttpLogging;" - it was added by mistake and is not used
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
 
@@ -20,6 +20,7 @@ namespace MyWebApi.Controllers
 
         // GET api/<UserController>/5
         [HttpGet("{id}")]
+        //Why isn't it implemented? It should read the file and return the user with this id (or NotFound / NoContent)
         public string Get(int id)
         {
             return "value";
@@ -29,18 +30,23 @@ namespace MyWebApi.Controllers
         [HttpPost]
         public ActionResult<User> Post([FromBody] User user)
         {
-            int numberOfUsers = System.IO.File.ReadLines("E:\\יד\\API\\MyWebApi\\MyWebApi\\text.txt").Count();
+            //fix: A relative path (the file is in the project folder). The full path E:\... works only on your computer.
+            //A clearer file name would help, for example users.txt
+            int numberOfUsers = System.IO.File.ReadLines("text.txt").Count();
             user.userId = numberOfUsers + 1;
             string userJson = JsonSerializer.Serialize(user);
-            System.IO.File.AppendAllText("E:\\יד\\API\\MyWebApi\\MyWebApi\\text.txt", userJson +
+            //fix: A relative path
+            System.IO.File.AppendAllText("text.txt", userJson +
             Environment.NewLine);
             return CreatedAtAction(nameof(Get), new { id = user.userId },
             user);
         }
+        //The assignment asks a wrong login to return NoContent() (204)
         [HttpPost("login")]
         public ActionResult<User> PostLogin([FromBody] LoginUser loginUser)
         {
-            using (StreamReader reader = System.IO.File.OpenText("E:\\יד\\API\\MyWebApi\\MyWebApi\\text.txt"))
+            //fix: A relative path
+            using (StreamReader reader = System.IO.File.OpenText("text.txt"))
             {
                 string? currentUserInFile;
                 while ((currentUserInFile = reader.ReadLine()) != null)
@@ -58,11 +64,13 @@ namespace MyWebApi.Controllers
 
             // PUT api/<UserController>/5
             [HttpPut("{id}")]
+            //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
             public void Put(int id, [FromBody] User user)
             {
                 string textToReplace = string.Empty;
+                //fix: A relative path
                 using (StreamReader reader =
-                System.IO.File.OpenText("E:\\יד\\API\\MyWebApi\\MyWebApi\\text.txt"))
+                System.IO.File.OpenText("text.txt"))
                 {
                     string currentUserInFile;
                     while ((currentUserInFile = reader.ReadLine()) != null)
@@ -70,15 +78,23 @@ namespace MyWebApi.Controllers
                         User user1 =
                         JsonSerializer.Deserialize<User>(currentUserInFile);
                         if (user1.userId == id)
+                        {
                             textToReplace = currentUserInFile;
+                            //fix: Found- break
+                            break;
+                        }
                     }
                 }
                 if (textToReplace != string.Empty)
                 {
-                    string text = System.IO.File.ReadAllText("E:\\יד\\API\\MyWebApi\\MyWebApi\\text.txt");
+                    //fix: Keep the id, otherwise the updated user is saved without it
+                    user.userId = id;
+                    //fix: A relative path
+                    string text = System.IO.File.ReadAllText("text.txt");
                     text = text.Replace(textToReplace,
                     JsonSerializer.Serialize(user));
-                    System.IO.File.WriteAllText("E:\\יד\\API\\MyWebApi\\MyWebApi\\text.txt", text);
+                    //fix: A relative path
+                    System.IO.File.WriteAllText("text.txt", text);
                 }
             }
 

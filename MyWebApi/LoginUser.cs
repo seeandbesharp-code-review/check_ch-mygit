@@ -2,6 +2,7 @@
 
 namespace MyWebApi
 {
+    //In C#, public properties are written in PascalCase (Password, Email)
     public class LoginUser
     {
         [Required]
